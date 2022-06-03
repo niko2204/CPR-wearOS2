@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack">
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:onClick="mOnClick"
+        android:text="@string/btn_start_training"
+        android:textColor="@color/colorWhite"
+        android:textSize="70sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/button_self"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:onClick="mOnClickSelf"
+        android:textColor="@color/colorWhite"
+        android:textSize="80sp"
+        android:text="@string/btn_start_Selftraining"
+        tools:ignore="UsingOnClickInXml" />
+
+
+</LinearLayout>

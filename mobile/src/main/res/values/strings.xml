@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MNUCPR-wearOS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_text">목포대학교 CPR GUIDE SYSTEM</string>
+<string name="developer">이영호, 김선경, 박건우, 최종명, 문지현, 고영혜, 양효정</string>
+<string name="btn_start_training">CPR교육</string>
+<string name="btn_start_Selftraining">자가학습</string>
+</resources>
