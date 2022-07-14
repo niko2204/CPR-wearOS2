@@ -100,6 +100,11 @@ if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
  * 자가학습은 기존의 그대로
 
 ## 2022년 6월 (갤럭시 워치4를 위한 wearOS 앱 추가)
- * wearOS 앱 개발. 
+ * wearOS 앱 개발
+## 2022년 6-7월 
+ * 보건소 다니며 CPR 교육 진행 (박건우, 양효정)
+## 2022년 7월 25일
+ * 해양경찰 대상 CPR 시범 서비스 제공 예정
+
 
 
